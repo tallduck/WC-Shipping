@@ -1,0 +1,31 @@
+# Copyright (C) 2014 Tall Duck, LLC.
+# This file is distributed under the same license as the WC-Shipping package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WC-Shipping 0.1.0\n"
+"Report-Msgid-Bugs-To: http://github.com/TallDuck/WC-Shipping\n"
+"POT-Creation-Date: 2014-06-30 14:30:00+00:00\n"
+"PO-Revision-Date: 2014-06-30 14:30-0500\n"
+"Last-Translator: Mike George <mike@tallduck.com>\n"
+"Language-Team: ENGLISH <support@tallduck.com >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-wc-shipping-admin.php:170
+msgid "Page Title"
+msgstr ""
+
+#: class-wc-shipping-admin.php:171
+msgid "Menu Text"
+msgstr ""
+
+#: class-wc-shipping-admin.php:197
+msgid "Settings"
+msgstr ""
